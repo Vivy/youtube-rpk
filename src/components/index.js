@@ -8,3 +8,4 @@ export { default as SideBar } from './sidebar';
 export { default as Videos } from './videos';
 export { default as ChannelCard } from './channelcard';
 export { default as VideoCard } from './videocard';
+export { default as Loader } from './loader';
