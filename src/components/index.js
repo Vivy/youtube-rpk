@@ -3,3 +3,4 @@ export { default as Navbar } from './navbar';
 export { default as ChannelDetail } from './channeldetail';
 export { default as SearchFeed } from './searchfeed';
 export { default as VideoDetail } from './videodetail';
+export { default as SearchBar } from './searchbar';
