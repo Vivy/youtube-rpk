@@ -4,3 +4,7 @@ export { default as ChannelDetail } from './channeldetail';
 export { default as SearchFeed } from './searchfeed';
 export { default as VideoDetail } from './videodetail';
 export { default as SearchBar } from './searchbar';
+export { default as SideBar } from './sidebar';
+export { default as Videos } from './videos';
+export { default as ChannelCard } from './channelcard';
+export { default as VideoCard } from './videocard';
